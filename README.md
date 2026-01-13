@@ -1,4 +1,4 @@
-# Проект DDD To-Do
+# Проект DDD To-Do/UrlShortner
 
 ## Обзор
 
